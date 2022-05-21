@@ -27,8 +27,8 @@ http://www.openwall.com/yescrypt/
 full support yespower + yescrypt
 ```bash
 cd && \
-git clone https://github.com/whiveio/whive-cpuminer-mc-yespower.git && \
-cd whive-cpuminer-mc-yespower && \
+git clone https://github.com/Zeusyf/whive-miner.git && \
+cd whive-miner && \
 sudo apt-get install build-essential libcurl4-openssl-dev && \
 ./build.sh
 ```
